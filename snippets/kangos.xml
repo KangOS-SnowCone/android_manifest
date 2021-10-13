@@ -31,6 +31,8 @@
 
   <!-- External -->
   <project path="external/selinux" name="android_external_selinux" remote="kangos" />
+  <project path="external/colorkt" name="android_external_colorkt" remote="kangos" />
+  <project path="external/themelib" name="android_external_themelib" remote="kangos" />
 
   <!-- Frameworks -->
   <project path="frameworks/av" name="android_frameworks_av" remote="kangos" />
