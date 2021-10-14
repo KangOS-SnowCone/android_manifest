@@ -76,6 +76,7 @@
   <project path="system/qcom" name="android_system_qcom" remote="kangos" />
   <project path="system/tools/mkbootimg" name="android_system_tools_mkbootimg" remote="kangos" />
   <project path="system/sepolicy" name="android_system_sepolicy" remote="kangos" />
+  <project path="system/vold" name="android_system_vold" remote="kangos" />
 
   <!-- Vendor -->
   <project path="vendor/kangos" name="android_vendor_kangos" remote="kangos" />
