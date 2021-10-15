@@ -2,7 +2,7 @@
 
 <centre> Yet Another cherry-picked [AOSP](https://source.android.com/) Custom ROM <centre/>
 
-![BANNER](https://github.com/KangOS-Snowcone/android_manifest/blob/snowcone/kangos.png)
+![BANNER](https://github.com/KangOS-Snowcone/android_manifest/blob/snowcone/assets/kangos.jpg)
 
 Credits
 =======
