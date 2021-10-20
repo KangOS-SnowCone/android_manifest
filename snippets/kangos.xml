@@ -54,6 +54,7 @@
   <project path="packages/apps/Contacts" name="android_packages_apps_Contacts" remote="kangos" />
   <project path="packages/apps/DeskClock" name="android_packages_apps_DeskClock" remote="kangos" />
   <project path="packages/apps/Dialer" name="android_packages_apps_Dialer" remote="kangos" />
+  <project path="packages/apps/DocumentsUI" name="android_packages_apps_DocumentsUI" remote="kangos" />
   <project path="packages/apps/Launcher3" name="android_packages_apps_Launcher3" remote="kangos" />
   <project path="packages/apps/Messaging" name="android_packages_apps_Messaging" remote="kangos" />
   <project path="packages/apps/Settings" name="android_packages_apps_Settings" remote="kangos" />
@@ -77,6 +78,7 @@
   <project path="system/qcom" name="android_system_qcom" remote="kangos" />
   <project path="system/tools/mkbootimg" name="android_system_tools_mkbootimg" remote="kangos" />
   <project path="system/sepolicy" name="android_system_sepolicy" remote="kangos" />
+  <project path="system/update_engine" name="android_system_update_engine" remote="kangos" />
   <project path="system/vold" name="android_system_vold" remote="kangos" />
 
   <!-- Vendor -->
