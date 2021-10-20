@@ -110,6 +110,9 @@
   <project path="prebuilts/abi-dumps/vndk" name="android_prebuilts_abi-dumps_vndk" clone-depth="1" remote="arrow" />
   <project path="prebuilts/tools-kangos" name="android_prebuilts_tools-extras" remote="arrow" />
 
+  <!-- Tools -->
+  <project path="tools/extract-utils" name="android_tools_extract-utils" remote="arrow" />
+
   <!-- Vendor -->
   <project path="vendor/codeaurora/telephony" name="android_vendor_codeaurora_telephony" remote="arrow" />
   <project path="vendor/qcom/opensource/audio" name="android_vendor_qcom_opensource_audio" remote="arrow" />
